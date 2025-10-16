@@ -41,10 +41,9 @@ import { useWalletFlowStore } from "@/lib/stores/use-wallet-flow-store";
 const MAX_MESSAGE_LENGTH = 256;
 
 const suggestions = [
-  "List available project options",
-  "Request paid project details",
-  "Latest infrastructure updates",
-  "Explain micropayment flow",
+  "what are some cool projects onchain",
+  "Can you tell me more about the projects?",
+  "How do micropayments work here?",
 ];
 
 const ChatBotDemo = () => {
