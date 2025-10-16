@@ -1,8 +1,0 @@
-onlyBuiltDependencies:
-  - '@coinbase/x402'
-  - '@tailwindcss/oxide'
-  - bufferutil
-  - esbuild
-  - keccak
-  - sharp
-  - utf-8-validate
